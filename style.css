@@ -1,0 +1,19 @@
+html {
+    background:black;
+}
+
+.main   {
+    color:goldenrod;
+}
+
+.tag    {
+    color:whitesmoke;
+}
+
+#italic {
+    font-style: italic;
+}
+
+.edu {
+    color:blue;
+}
