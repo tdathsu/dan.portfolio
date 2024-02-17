@@ -8,12 +8,21 @@ html {
 
 .tag    {
     color:whitesmoke;
+    font-size: 14px;
 }
 
+.tag1   {
+    color:wheat;
+    font-size: 14px;
+}
+
+.ex {
+    color:green;
+}
+
+.ok {
+    color:yellow
+}
 #italic {
     font-style: italic;
-}
-
-.edu {
-    color:blue;
 }
